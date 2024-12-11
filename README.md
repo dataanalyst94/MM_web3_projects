@@ -15,11 +15,6 @@ Craft business strategy and technical documentation for stakeholders and technic
 Create compelling data visualizations using tools like Power BI, Tableau, and Excel.
 Communicate insights clearly to decision-makers through visual storytelling and clear documentation.
 
-📂 Files Included
-Business Whitepaper – Download PDF
-Technical Whitepaper – Download PDF
-Data Visualization Deck – Download PDF
-
 💡 Key Skills Demonstrated
 Data Visualization: Transforming raw data into interactive visuals with Power BI, Tableau, and Excel.
 Technical Writing: Creating technical whitepapers with clear explanations of methodologies, frameworks, and processes.
